@@ -1,0 +1,6 @@
+name: conversa
+
+on:
+  push:
+    branches:
+      - main
